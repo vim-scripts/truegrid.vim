@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=806
+
+truegrid.vim provides syntax highlighting for TrueGrid input files.  It does not have all of the commands available in TrueGrid, as there are so many.  If you add a lot of commands, or make any other substantive changes, email them to me, and I will roll them in.
